@@ -1,0 +1,8 @@
+I have a website app idea
+the concept in chapter and libraries
+that is each chapter is feature itself,etc
+chapter =messaging feature/app or LLM chat feature or games
+libraries is a set of any chapters
+in this we provide some build in libraries and which included chapters like messaging,meeting(like zoom meeting),LLM chats,etc.every library has context which is common memory for that library,so all feature can know what other features are dealing.
+users can create own library and chapter,so chapter they simply app,so that they can create a own application and host it as chapter .app could be a game etc.
+there should be market palce where user can sell or there libraries.
